@@ -1,1 +1,1 @@
-# Search-master
+Search Master is a responsive search interface designed for efficient and visually appealing content discovery. Featuring auto-suggestions, dynamic search results, and a clean layout, Search Master enhances user experience by making information easy to find and accessible on all devices.# Search-master
